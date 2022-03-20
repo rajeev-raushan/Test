@@ -1,1 +1,1 @@
-//n queen code here
+//n queen code here version 2
