@@ -1,0 +1,1 @@
+//n queen code here
